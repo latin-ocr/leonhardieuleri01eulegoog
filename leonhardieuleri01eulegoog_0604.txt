@@ -1,0 +1,41 @@
+' 592 sunnnnmnunom x1.
+
+menta in tertio volumine operis mei de hoc argumento exposui,
+reduci posse. Pertractavi autem in ista secunda parte eas inte·
+grationes, qnae circa functiones duarum variabilinm versantur, in
+quo calculi genere etiam nunc vix ultra prima elementa progredi
+
+. licuit.
+
+ξ. 5. lilius scilicet incrementi loco, quod variationem
+appellavi, ipsam quantitatem p non amplius tanquam functio·
+nem solius variabilis e considero, sed eam tanquam iunctio-
+nem binarum variabilium x et t in calculum intro'duco, sie enim
+
+dum dc (ἐξ) significat rerum differentiale ipsius y, haec formula
+
+dt (ἐξ) idem significare poterit, quod antea signo ty indicari·
+
+mus. Quo haec reddantur clariora concipiamus p ut applicatam
+cujuspiam curvae abscissae c respondentem, atque in calculo varia·
+tionum alia relatio requiritur, quae omnes alias curvas huic saltem
+proximas complectatur, omues autem hujusmodi curvae, si X deno·
+
+tet illam functionem cui p aequatur, tali aequatione contineri posse .
+
+p: X ψ tV manifestum est; denotante V functionem quamcunque
+ipsius a. Sumta enim t infinite parva haec aequatio omnes om·
+nino lineas curvas propositae proximas in se comprehendet, atque
+adeo hanc formam multo generaliorem reddere licet, ita ut pro p
+iunctio quaecunque binarum variabilium u et t usurpari possit, dum-
+modo ea ita fuerit comparata, ut posito t = 0, prodeat ipsa iunc-
+tio proposita p: X.
+
+ἓ. 6. Pro variatione igitur invenienda, quantitas a ut
+constans spectari, ipsius vero p differentiale tantum ex variabi-
+litate ipsius t desumi debet; unde si expressio proposita suerit
+primi generiS, iunctio scilicet ipsarum ec et p tantum, quam
+littera Z designemus, 'ponamus differentiatioue consueta pro·
+
+ 
+

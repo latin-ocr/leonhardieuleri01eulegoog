@@ -1,0 +1,41 @@
+AD SEOT. Ι.· ΤΟΜ. Π. 539
+
+“ ‘Integralibns igitur inventis erit p: J adc3 unde patet etiamsi
+haec integralis fuerint algebraica, tamen calores ipsius p fieri trans·
+candentes.
+
+§. 27. Simili¹ modo statuamus porro s= J soe, et
+qnia per praecedentem operationem loco b et c adepti sumus
+b÷ 2o et c÷ b, nunc perveniemus ad hanc aequationem
+
+dda‘u-aeet-(o÷rateoeoz'-(0÷2o÷2a)doc⁹=o,
+
+quae ergo integrationem admittet, si fuerit vel c-r- 2 b -r- 2 a = 0,
+vel b÷4a=a, sive c=—2b—2a et b=÷3a. Integrali·
+'bus autem hinc inventis prop habebimus y: J os J dds, quae
+ita ad signum integrale simplex reducitur, ut sit
+
+p=aJa'de-Ja'eda.
+
+ξ. 28. Simili 'modo statuamus porro a' = J a'' da, at-
+que nunc deducemur ad banc aequationem
+
+tadu -aaa)-(t÷6atebedz''-(o÷3o÷6o)e''de'=0,
+
+quae igitur integrabilis erit, si fuerit vel c-r- 3 b -r- 6 a = 0,
+vel a÷oa=a, boc est si c=-3b—6oetb=-5o; at-
+que ex his integralibus fiet p: J da J oe J s'' de, qui valor
+ex praecedente reduci potest, si is per de multiplicatus denuo in-
+tegretur et loco a' scribatur Ian, obtinetur enim
+
+p={acJa'‘de-eJes''de÷JJaos''de.
+
+§- 29st Quod si jam bas operationes ulterius continuemus,
+totum negotium hnc redibit, ut formulae, qnae loco b et c sunt
+proditurae, rite formentur, simulque valeres ipsius p assignentur,
+quemadmodum sequens tabula indicabit
+
+68*
+
+ 
+

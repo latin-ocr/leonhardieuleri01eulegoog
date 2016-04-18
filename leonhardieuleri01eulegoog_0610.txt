@@ -1,0 +1,40 @@
+Α 598 SUPPLEMENTUM XI.
+
+sectatione illa, quam olim de calculo variationum conscripseram,
+tunc temporis praestare nou potui, multitudiue tot quantitatum di·
+versi generis deterritus.
+
+Applicatio methodi praecedentis ad functiones
+
+duarum variabilium.
+
+§- 17. Si habeatur aequatio quaecuuque inter ternas va·
+viabiles a, p et a, ea naturam cujuspiam superficiei exprimi cen-
+semus, ubi quidem binas coordinatus a ei p iu plano horizontali
+constitui intelligamus, tertiam vero a verticalem, sicque haec tentia
+a, ut iunctio spectari potest binarum a et p3 uude more solito
+duplicia incremento consideranda occurrunt, quatenus scilicet a va·
+riabilitate ipsius a, vel ipsius p nascuntur. Illud nempe incremen-
+tum ipsius a quod ex variatione ipsius a oritur hac formula du
+
+(g), boc vero ex variatione ipsius p oriundum ista dp (g) indi.
+
+cari solet. ·
+
+ἓ. 18. Quodsi jam haec superficies aequatione iuter a,
+p et a expressa, cum allis quibuscunque superficibus ipsi proxi-
+mis comparari debeat, id commodissime fiet novam variabilem t
+introducendo, ita ut jam a spectanda sit ut functio trium variabi-
+lium, a, p et t, quae quidem sumto t = 0, in functionem supe·
+riorem abeat, at dum ipsi t volones infinite parvi tribuuntur, om-
+nes superficies proximas complectatur, quo posito perspicuum est,
+quoniam variabiles u et p a nova t neutiquam pendent aarum dif-
+ferentialia da et dp nullo modo oum dt permiscere, sola vero
+coordinata a triplicis generis incrementa capere potest, praeter bina
+enim Jam ante commemorata, quae vel ab a vel ab p proficiscun-
+tur, accipere poterit incrementum a variabilitate ipsius t oriundum,
+
+quod tali formula dt (Ξ) est repraesentandum.
+
+ 
+

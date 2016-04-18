@@ -1,0 +1,38 @@
+bdd SUPPLEMENTUM X.
+
+colligitur a = - P'. Quod si Jam p tanquam novam variabilem
+spectemus, per eam tam a quam p exprimere poterimus. Cum
+enim sit y=pu -r- P, erit y=P-‘pP','unde‚ eliminando p,
+quoties quidem calculus id permittet, conflari poterit aequatio inter
+c et p, quae autem tantum nt integrale particulare spectari de·
+⁴ bet, qnia nnllam involvit constantem mbioaribm. at vero, qno·
+niam aequationem per differentiationem eruum - adp = P'dp
+per dp deridere licuit, iste factor nihilo aequatus integrale
+completum suppeditare est censendus. Posito enim dp: 0, erit
+p: const. = a, ideoque q: J pdr = ocu-r- β., Haec quidem
+aequatio duas constantes arbitrariae involvere videtnr3 at vero altera
+per ipsam aequationem propositam determinatur, cnm iacta substitu-
+tione flat
+
+cu-r-b—uc=P, ideoqued=P=izu
+
+Problema 2.
+
+ἓ· 5· &didita aquatum diffareatioti secund modus
+1)·- qu = Q, uus imeproic completum osapoore.
+
+Salutio
+
+Si baec aequatio differentietur et loco dp scribatur qu,
+prodibit ista -edq=dQ, sive, , posito dQ=Q'dq, erit
+— adq = Q' oq. Hinc factor communis dq nihilo aequatus prae-
+bet q = const. = 2 u, unde fit
+
+p=Jqdo=2ae÷p, hincque
+o=tud²=we÷ia÷t2
+
+quarum trium constantium a, β, γ, una per aequationem pro·
+positam determinatur. Facta autem divisione per dq habebi-
+
+ 
+

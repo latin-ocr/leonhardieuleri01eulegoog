@@ -1,0 +1,40 @@
+430 SUPPLEMENTUM vl.
+
+⁸ tatur, semper in maximos errores inducet. Multo minus ergo hinc
+colligere licet, si loeo ac et y aliae functiones ipsarum teto substi-
+tuantur, cujusmodi expressio loco dx dy adhiberi debeat:
+
+l. 2l. Ac primo quidem observo nullam hic esse ra·
+tionem, eur expressio loco dx d y in calculum introducenda
+ei aequalis esse debeat; quod turn demum necesse esset, si bi·
+nae integrationes eodem modo ut ante secundum· binas varia·
+biles instituerentur. Cum· autem nunc aliae variabiles t et ὐ
+adsint, atque altera integratio per variabilitatem ipsius tn, altera
+ipsius v, sit administranda, quae operationes *a praecedentibus
+plurimum differunt3 ’ formula jam loco dcc dy introducenda· non
+ex aequalitate aestimari, sed potius ad scopum, qui· est propo-
+
+situs, accommodari debet. Et quoniam jarn binas integratio· ’
+
+ιιεεγ secundum binas ‘variabiles t et o distingui oportet, mani· J
+festum est formulam loco derby adhibendam necessario pro·
+ducto dt'dn affectam esse, et hujusmodi sormam Zdtdu ha·
+bere debere.
+
+ξ. 25. Quo haec certius expediantur, maneat primo x,
+ct loco p introducatur alia variabilis u, ita ut sit p functio
+
+quaecunque ipsarum x et u, et ὂ y :P d x-lQ ὂ ιι. si jum ,
+
+in priori integratione or constans sumatur, erit utique dyszu,
+binc ssbxbyzsdxsQdu, ita ut nunc loco formulae dxdy
+habeatur de ὂ u, cujus integrale duplicatum proinde etiarn
+hoc¹ rnodo exprimi poterit s ὸιι s de, ubi in priori integra·
+tione s de quantitas resumitur pro constante. Quodsi nunc
+simili modo ιι retineatur et loco x introducatur functio quae·
+cunque ipsarum tet u, ut sit bszdt÷Sdu, in tracta·
+tione formulae s du s Qdur prior integratio s err, in qua ιι
+constans statuitur, abibit iu hanc s QRnn ita ut integrale du·
+
+ 
+

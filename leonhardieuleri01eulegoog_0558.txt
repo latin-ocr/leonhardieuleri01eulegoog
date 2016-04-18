@@ -1,0 +1,41 @@
+546 SUPPLElOENTUM IX.
+
+pro qua si dP'' tuerit multiplicator idoneus, completum integrale
+induet hanc formam
+
+summouendo.
+Sieque quantitas a exprimetur per formulam integralem implicatam.
+
+ᾗ. 41. Tali autern torma pro integrali inventa praeci-
+puum negotium huc redit, ut ea ita evolvatur, ut formula con·
+tineus functionem indefinitam X, quae hic terna sigua integralis
+habet praefixa, plus unico ante se non habeat, quamobrem quem·
+admodum talis reductio commodissime institui queat, hic ostendere
+constitui, siquidem nisi certa artificia adhibeantur, hujnsmodi operatio
+calculos maxime molestos postularet.
+
+§- 42. In genere autern hujusmodi formulas implicatas ita
+repraesentemus
+
+JapJquorJosJocso.
+
+pro cujus evolutione a casu duorum signorum integralium inchoemus,
+
+et quia erit Jdp J (lq = J udo, reductio vulgaris dat pq -— J polo.
+Jarn loco p et p iterum scribamus J dp et J dp, atque evolutio
+ita rehabebit
+
+iduldu=ldu·ldu-l0uldu‚
+
+ubi in genere hanc aequalitatem notasse juvabit
+
+llutos-lu.lu÷lurop=0.
+
+ξ. 43. Consideremus nunc formulam tria signa integralia
+involventem = J dp J do J dr, et quia ut modo vidimus est
+Jdp J dr = pr — J pulc, nostra formula in has partes dis-
+cerpitur Jprdp — J op J por, quae posterior pars reducitur
+ad hanc formam pJodr - loqu, sicque formula nostra erit
+
+ 
+

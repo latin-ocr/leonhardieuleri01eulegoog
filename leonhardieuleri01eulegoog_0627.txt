@@ -1,0 +1,47 @@
+b
+
+AD FINEM Toni. ΙΙΙ. 615
+
+ιηήῖε involvit. Ad primam ergo classem referimus eos casus
+
+quibus aequatio pro maximo vel minimo inventa prorsus eet finita.
+nd secundam autem classem eos, quibus haec aequatio fit difle- ·
+rentislis secundi gradm, sd tertiam eos, quibus aequatio ad quar-
+tum gradum ascendit et itu porro, quas singulas classes ordine
+describamus.
+
+Classis Ι.
+
+ξ. 50. Ad solutionem ergo primae classis formula szo
+
+⁸. statim perducit, quando expressio Z tantum per coordinatus a
+
+et y exclusis omnium differentialium rationibus determinatur, quia
+enim hoc casu, simpliciter fit dZ = Mdc -r- Ndp, aequatio pro
+curvo maximi vel minimi erit N: 0, onae ergo aequatio omnino
+est determinata, atque adeo curua satisfaciens unica in sno ge-
+nere. Veluti si quaeratur linea, in qua valor formulae Jdoe
+(My—pp) fiat maximus vel minimus, ob Z==2oy-yp,
+
+’ ideoque N: 2 (n — y), aequatio quaesita erit o — y = 0, seu
+
+linea quaesita erit recta ad axem angulo semitecto inclinata, pro
+qua ergo valor formulae propositae integralis est ξ , qni utique
+
+minor est, qnam si ulla alia lines curra sumeretur pro eadem
+scilicet abscissa.
+
+§- 51. His autem casibus prima classis nondum exhauri-
+tur, sed deutur adhuc alii perinde ad aequationes finitas ducentes,
+. ad qnod ostendendum, sit 3 fnn'ctio quaecunque ipsarum n et p
+atque 03 = mlle -e- noy, jamque ponatur Z = Bp, eritque
+M = lilip3 N: llp3 1³:53, qnare ut formula 1st fiat ma·
+ximum vel minimum, aequatio reperitur
+
+0=ilip-}{=})dp- -ἓό-ἕ-νπ-Ψῖ,
+
+quae itidem est aequatio finita. Quod quidem etiam satim prae·
+uidere licuisset, quum enim sit por = ip, haec formula integra-
+
+ 
+

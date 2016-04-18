@@ -1,0 +1,45 @@
+548 SUPPLEMENTUM IX.
+
+Theorema 2.
+
+g. 46. Inter bina elementa dp et de semper locum
+habebit haec relatio
+
+thid-l-tn.toq÷1.roqtop=0.
+
+Demonstratio.
+
+Ad hoe demonstrandum sufficiet ostendisse, differentiale
+hujus aequationis esse = 0, quoniam sero singula membra bi·
+nis conatam factoribus, seorsim considerentur differentialis ex fac·
+toribus prioribus et posterioribus oriunda, hio igitur ex factoribus
+prioribus oritur differentiale dp(Joq.1-1.qu)=0 per
+theorema 1. At ex factoribus posterioribus oritur differentiale
+
+-uoo·1—1·tu›=0.
+
+Theorema 3.
+
+§. 47. Inter terna elementa dp, dp et or semper haee
+relatio locum habet
+
+tortores.1-Joptoq.tu÷top.tortoq-1‚retussa-o.
+
+Demonstratio.
+
+Hie iterum seorsim perpendantur differentialis tam ex prio-
+ribus quem ex posterioribus factoribus oriunda3 ex prioribus au·
+tem oritur
+
+ep(1utn.1—toq.to÷1.tstoq),
+
+cnjus valor manifesto ad nibilum redigitur per theorema 2. si sci-
+licet litterae p et p uno gradu promoveantur3 tum vero differentiale
+es factoribus posterioribus ortum est
+
+moetus-totumtotns
+
+eujus valor pariter per theorema ‘praeoedens evanescit, quoniam
+
+ 
+

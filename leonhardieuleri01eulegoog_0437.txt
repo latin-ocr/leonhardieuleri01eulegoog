@@ -1,0 +1,38 @@
+426 SUPPLEMENTUM VI.
+
+ao posito εις-τα, erit soliditas Ξ ¹ αὖ, et curva pro basi inventa
+est linea quarti ordinis.
+
+§. ¹7. Quae hic de soliditate portionis sphaericae da—
+tae basi insistentis eunt tradita, simiii‚cnlculo ad quaevis alia
+corpora accommodari possunt, cum tantum in formula szBy
+quantitas Z alio modo per :c et y determinetur, dum hie-erat
+Z Ξ ιίζα a — :n :n — y y). Quin etiam si superficies eorpo-
+ris cujuscunque datae basi imminens definiri debeat, id inte-
+gratione gemina similis formulae fflfferentialis Z Β 2: ῡι J eodem
+
+modo expedietur: ita si corpus sit sphaera, elementum super-
+
+ficiei areolae elementari basis Bxby imminentis est m—ss-Jssr—y„
+
+ita ut ait ΖΞφ-(ι-ι-ζῗήᾗ, cujus gemina integratio pari mo-
+do pro ratione basis, cui *imminens portio superficiei-quaeritur,
+est instituenda. Atque in genere quantitates' quaeeunque aliae
+
+cujusvis eorporis, quae certae basi respondeant, ope similium ope·
+rationum determinabuntur. ’
+
+§. 18. Quaecunque ergo Z fuerit functio ipsarum z
+et y, pro integrali duplicato ssZBxby primo quaeritur inte-
+>graie s Zby, quantitate x ut constante spectata, idque exten-
+datur per totam quantitatem y, sicque extremi valeres ipsius y
+in computum ingredientur, quae erunt functiones ipsius x, ex
+basis figura cognitae: sicque pro Χῖὸς] orietur functio ipsius
+x, quae in ὂ x ducta denuo more solito debet integrari. Idem
+tenendum εει, si ordine inverso primo formula sZ bx inte-
+gretur, spectato y ut constante, quod integrale dum per totum
+intervalium x extenditur, extremi valoree ipsius x eidem y re-
+spondentes, qui erunt functiones ipsius y, invehentur , sicque
+s Z bx abibit in functionem ipsius y tentum, quae per ὂ y
+multiplicata denuo ita integrari debet, ut integrale per totum
+
